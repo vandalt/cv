@@ -52,8 +52,10 @@ for paper in papers:
             datasets.append(paper)
         continue
 
-    # Only keep affiliations that match MONTréal
-    good_aff = any(map(lambda a: "mont" in a.lower(), paper.aff))
+    # Only keep affiliations that match MONTRéal
+    good_aff = any(
+        map(lambda a: "montreal" in a.lower() or "montréal" in a.lower(), paper.aff)
+    )
     if not good_aff:
         rejected_papers.append(paper)
         continue

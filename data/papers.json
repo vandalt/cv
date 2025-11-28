@@ -2477,7 +2477,7 @@
     "pub": "Publications of the Astronomical Society of the Pacific",
     "volume": "135",
     "page": "048001",
-    "citations": 500,
+    "citations": 501,
     "url": "https://ui.adsabs.harvard.edu/abs/2023PASP..135d8001R"
   },
   {
@@ -2892,28 +2892,6 @@
     "page": "A86",
     "citations": 32,
     "url": "https://ui.adsabs.harvard.edu/abs/2022A&A...660A..86M"
-  },
-  {
-    "doctype": "article",
-    "authors": [
-      "Vandal, Thomas J.",
-      "McDuff, Daniel",
-      "Wang, Weile",
-      "Duffy, Kate",
-      "Michaelis, Andrew",
-      "Nemani, Ramakrishna R."
-    ],
-    "year": "2022",
-    "pubdate": "2022-00-00",
-    "doi": [
-      "10.1109/TGRS.2021.3088686"
-    ],
-    "title": "Spectral Synthesis for Geostationary Satellite-to-Satellite Translation",
-    "pub": "IEEE Transactions on Geoscience and Remote Sensing",
-    "volume": "60",
-    "page": "TGRS.2021",
-    "citations": 11,
-    "url": "https://ui.adsabs.harvard.edu/abs/2022ITGRS..6088686V"
   },
   {
     "doctype": "article",
