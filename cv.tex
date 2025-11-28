@@ -12,11 +12,11 @@
 \newcommand{\langen}[1]{\ifen\selectlanguage{english}#1\fi}
 \newcommand{\langfr}[1]{\iffr\selectlanguage{french}#1\fi}
 
-\newif\ifen
-\newif\iffr
-
-\entrue
-% \frtrue
+\makeatletter
+\@ifundefined{ifen}{\newif\ifen}{}
+\@ifundefined{iffr}{\newif\iffr}{}
+\ifen\else\iffr\else\entrue\fi\fi
+\makeatother
 
 \usepackage{xcolor}
 	\definecolor{udemblue}{HTML}{0047B6}
