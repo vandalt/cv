@@ -1,0 +1,231 @@
+[
+  {
+    "doctype": "eprint",
+    "authors": [
+      "Das, Puja",
+      "Posch, August",
+      "Barber, Nathan",
+      "Hicks, Michael",
+      "Vandal, Thomas J.",
+      "Duffy, Kate",
+      "Singh, Debjani",
+      "van Werkhoven, Katie",
+      "Ganguly, Auroop R."
+    ],
+    "year": "2024",
+    "pubdate": "2024-07-00",
+    "doi": [
+      "10.48550/arXiv.2407.11317"
+    ],
+    "title": "Hybrid physics-AI outperforms numerical weather prediction for extreme precipitation nowcasting",
+    "pub": "arXiv e-prints",
+    "volume": null,
+    "page": "arXiv:2407.11317",
+    "citations": 1,
+    "url": "https://ui.adsabs.harvard.edu/abs/2024arXiv240711317D"
+  },
+  {
+    "doctype": "eprint",
+    "authors": [
+      "Vandal, Thomas J.",
+      "Duffy, Kate",
+      "McDuff, Daniel",
+      "Nachmany, Yoni",
+      "Hartshorn, Chris"
+    ],
+    "year": "2024",
+    "pubdate": "2024-07-00",
+    "doi": [
+      "10.48550/arXiv.2407.11696"
+    ],
+    "title": "Global atmospheric data assimilation with multi-modal masked autoencoders",
+    "pub": "arXiv e-prints",
+    "volume": null,
+    "page": "arXiv:2407.11696",
+    "citations": 5,
+    "url": "https://ui.adsabs.harvard.edu/abs/2024arXiv240711696V"
+  },
+  {
+    "doctype": "article",
+    "authors": [
+      "Duffy, Kate",
+      "Vandal, Thomas J.",
+      "Wang, Weile",
+      "Nemani, Ramakrishna R.",
+      "Ganguly, Auroop R."
+    ],
+    "year": "2023",
+    "pubdate": "2023-00-00",
+    "doi": [
+      "10.1109/TNNLS.2022.3169958"
+    ],
+    "title": "A Framework for Deep Learning Emulation of Numerical Models With a Case Study in Satellite Remote Sensing",
+    "pub": "IEEE Transactions on Neural Networks and Learning Systems",
+    "volume": "34",
+    "page": "3345",
+    "citations": 6,
+    "url": "https://ui.adsabs.harvard.edu/abs/2023ITNNL..34.3345D"
+  },
+  {
+    "doctype": "article",
+    "authors": [
+      "Vandal, Thomas J.",
+      "Nemani, Ramakrishna R."
+    ],
+    "year": "2023",
+    "pubdate": "2023-00-00",
+    "doi": [
+      "10.1109/TNNLS.2021.3101742"
+    ],
+    "title": "Temporal Interpolation of Geostationary Satellite Imagery With Optical Flow",
+    "pub": "IEEE Transactions on Neural Networks and Learning Systems",
+    "volume": "34",
+    "page": "3245",
+    "citations": 4,
+    "url": "https://ui.adsabs.harvard.edu/abs/2023ITNNL..34.3245V"
+  },
+  {
+    "doctype": "article",
+    "authors": [
+      "Shapira, Tirosh",
+      "Monreal, I. Abrrey",
+      "Dion, S\u00e9bastien P.",
+      "Buchholz, David W.",
+      "Imbiakha, Brian",
+      "Olmstead, Andrea D.",
+      "Jager, Mason",
+      "D\u00e9silets, Antoine",
+      "Gao, Guang",
+      "Martins, Mathias",
+      "Vandal, Thierry",
+      "Thompson, Connor A. H.",
+      "Chin, Aaleigha",
+      "Rees, William D.",
+      "Steiner, Theodore",
+      "Nabi, Ivan Robert",
+      "Marsault, Eric",
+      "Sahler, Julie",
+      "Diel, Diego G.",
+      "Van de Walle, Gerlinde R.",
+      "August, Avery",
+      "Whittaker, Gary R.",
+      "Boudreault, Pierre-Luc",
+      "Leduc, Richard",
+      "Aguilar, Hector C.",
+      "Jean, Fran\u00e7ois"
+    ],
+    "year": "2022",
+    "pubdate": "2022-03-00",
+    "doi": [
+      "10.1038/s41586-022-04661-w"
+    ],
+    "title": "A TMPRSS2 inhibitor acts as a pan-SARS-CoV-2 prophylactic and therapeutic",
+    "pub": "Nature",
+    "volume": "605",
+    "page": "340",
+    "citations": 32,
+    "url": "https://ui.adsabs.harvard.edu/abs/2022Natur.605..340S"
+  },
+  {
+    "doctype": "article",
+    "authors": [
+      "Duffy, Kate",
+      "Vandal, Thomas J.",
+      "Nemani, Ramakrishna R."
+    ],
+    "year": "2022",
+    "pubdate": "2022-00-00",
+    "doi": [
+      "10.1109/ACCESS.2022.3198673"
+    ],
+    "title": "Multisensor Machine Learning to Retrieve High Spatiotemporal Resolution Land Surface Temperature",
+    "pub": "IEEE Access",
+    "volume": "10",
+    "page": "89221",
+    "citations": 2,
+    "url": "https://ui.adsabs.harvard.edu/abs/2022IEEEA..1089221D"
+  },
+  {
+    "doctype": "article",
+    "authors": [
+      "Konduri, Venkata Shashank",
+      "Vandal, Thomas J.",
+      "Ganguly, Sangram",
+      "Ganguly, Auroop R."
+    ],
+    "year": "2020",
+    "pubdate": "2020-11-00",
+    "doi": [
+      "10.3389/fsufs.2020.569645"
+    ],
+    "title": "Corrigendum: Data Science for Weather Impacts on Crop Yield",
+    "pub": "Frontiers in Sustainable Food Systems",
+    "volume": "4",
+    "page": "569645",
+    "citations": 0,
+    "url": "https://ui.adsabs.harvard.edu/abs/2020FrSFS...469645K"
+  },
+  {
+    "doctype": "eprint",
+    "authors": [
+      "Vandal, Thomas",
+      "McDuff, Daniel",
+      "Wang, Weile",
+      "Michaelis, Andrew",
+      "Nemani, Ramakrishna"
+    ],
+    "year": "2020",
+    "pubdate": "2020-10-00",
+    "doi": [
+      "10.48550/arXiv.2010.06045"
+    ],
+    "title": "Spectral Synthesis for Satellite-to-Satellite Translation",
+    "pub": "arXiv e-prints",
+    "volume": null,
+    "page": "arXiv:2010.06045",
+    "citations": 0,
+    "url": "https://ui.adsabs.harvard.edu/abs/2020arXiv201006045V"
+  },
+  {
+    "doctype": "eprint",
+    "authors": [
+      "Gao, Nicholas",
+      "Wilson, Max",
+      "Vandal, Thomas",
+      "Vinci, Walter",
+      "Nemani, Ramakrishna",
+      "Rieffel, Eleanor"
+    ],
+    "year": "2020",
+    "pubdate": "2020-06-00",
+    "doi": [
+      "10.48550/arXiv.2006.07680"
+    ],
+    "title": "High-Dimensional Similarity Search with Quantum-Assisted Variational Autoencoder",
+    "pub": "arXiv e-prints",
+    "volume": null,
+    "page": "arXiv:2006.07680",
+    "citations": 0,
+    "url": "https://ui.adsabs.harvard.edu/abs/2020arXiv200607680G"
+  },
+  {
+    "doctype": "article",
+    "authors": [
+      "Konduri, Venkata Shashank",
+      "Vandal, Thomas J.",
+      "Ganguly, Sangram",
+      "Ganguly, Auroop R."
+    ],
+    "year": "2020",
+    "pubdate": "2020-05-00",
+    "doi": [
+      "10.3389/fsufs.2020.00052"
+    ],
+    "title": "Data Science for Weather Impacts on Crop Yield",
+    "pub": "Frontiers in Sustainable Food Systems",
+    "volume": "4",
+    "page": "52",
+    "citations": 16,
+    "url": "https://ui.adsabs.harvard.edu/abs/2020FrSFS...400052K"
+  }
+]
